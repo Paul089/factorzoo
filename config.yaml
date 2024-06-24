@@ -10,14 +10,18 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
+    - name: Home
+      url: /home/
+      weight: 10
     - name: About
       url: /about/
+      weight: 20
     - name: Strategy
-      url: 
+      url: /strategy/
+      weight: 30
     - name: Team
-      url:
-    - name: Home
-      url: 
+      url: /team/
+      weight: 40
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
