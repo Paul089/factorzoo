@@ -15,6 +15,8 @@ menu:
     - name: Strategy
       url: 
     - name: Team
+      url:
+    - name: Home
       url: 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
