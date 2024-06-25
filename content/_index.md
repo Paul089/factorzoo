@@ -1,0 +1,2 @@
+## Welcome
+Hello and welcome to the factor zoo. Here you can find all the relevant information regarding the portfolio management project affiliated with Humboldt University. You can find information about who we are, what investment strategies we are currently pursuing and also stay up to date regarding any new projects or developments

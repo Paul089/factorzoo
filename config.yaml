@@ -11,7 +11,7 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: /home/
+      url: /#_index/
       weight: 10
     - name: About
       url: /about/
@@ -38,6 +38,7 @@ params:
     height: 50
     url: logo.png
     width: 50
+  email: factorzoo@gmail.com
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
