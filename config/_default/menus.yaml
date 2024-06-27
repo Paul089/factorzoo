@@ -1,0 +1,36 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Tour
+    url: tour
+    weight: 10
+  - name: Strategies
+    url: strategies
+    weight: 20
+  - name: Equity
+    pageRef: /strategies/equity
+    parent: Strategies
+    weight: 1
+  - name: Fixed Income
+    pageRef: /strategies/fixedincome
+    parent: Strategies
+    weight: 2
+  - name: Commodities
+    pageRef: /strategies/commodities
+    parent: Strategies
+    weight: 3
+  - name: People
+    url: people
+    weight: 30
+  - name: Events
+    url: event
+    weight: 40
+  - name: Publications
+    url: publication
+    weight: 50
+  - name: Contact
+    url: contact
+    weight: 60
